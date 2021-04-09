@@ -1,3 +1,16 @@
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+---
+<h1 align="center">Hi 👋, I'm Ananya</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+<p align="center">
+    <img width="48%" src="https://github.com/Ananya-0306/Cybersecurity/blob/main/tenor.gif" alt="Github Swag" />
+</p>
+ 
+ ---
+ 
+ 
+
 ![Awesome Hacking](https://github.com/Ananya-0306/Cybersecurity/blob/main/1020783.jpg)
 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
